@@ -1,1 +1,3 @@
-# personal_site
+# Personal Website
+
+Code for my static personal website (lawrencexia.com).
